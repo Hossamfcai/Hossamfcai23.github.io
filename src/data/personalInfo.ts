@@ -12,7 +12,7 @@ export const personalInfo = {
   githubUsername: 'Hossamfcai',
   linkedin: 'https://linkedin.com/in/hossam-ibrahim-b98a7624a',
   linkedinUsername: 'hossam-ibrahim-b98a7624a',
-  resumeUrl: '/Hossam_Ibrahim_Resume.pdf',
+  resumeUrl: './Hossam_Ibrahim_Resume.pdf',
   status: 'Open to Front-End / React Developer Opportunities',
   militaryStatus: 'Completed (15/04/2025 – 01/06/2026)',
   educationSummary: 'B.Sc. Computing & Artificial Intelligence, Helwan University (Grade: Very Good)',
